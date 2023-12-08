@@ -1,0 +1,9 @@
+{
+	"name": "aurabindo",
+	"location": "eastus",
+	"identity": {
+		"type": "SystemAssigned",
+		"principalId": "2f7bfdab-becf-4edc-8982-d6535130f743",
+		"tenantId": "ade98f56-c167-49e9-b942-8dd9a18b0b03"
+	}
+}
